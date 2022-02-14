@@ -13,4 +13,5 @@ Data Science Portfolio
 * Supervised machine learning models like SVM, Logistic regression are fed with the top 33 gene features to classify the data into 2 classes, detected and not detected, 
 * Out of all, Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane, outperformed with an accuracy of 98%. 
 * I'm further interested to extend the project using deep learning and optimization techniques.
-![](https://github.com/Bhuvaneswari1108/Bhuvaneswari_Portfolio/blob/master/images/README.md) 
+
+![](https://github.com/Bhuvaneswari1108/Bhuvaneswari_Portfolio/blob/master/Screenshot%20(15).png) 
