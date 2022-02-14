@@ -14,4 +14,4 @@ Data Science Portfolio
 * Out of all, Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane, outperformed with an accuracy of 98%. 
 * I'm further interested to extend the project using deep learning and optimization techniques.
 
-![](https://github.com/Bhuvaneswari1108/Bhuvaneswari_Portfolio/blob/master/Screenshot%20(15).png) 
+![](https://github.com/Bhuvaneswari1108/Bhuvaneswari_Portfolio/blob/master/images/Screenshot%20(15).png) 
